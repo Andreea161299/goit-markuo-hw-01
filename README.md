@@ -1,2 +1,2 @@
-# goit-markuo-hw-01
-Goit-markuo-hw-01
+# goit-markup-hw-01
+Goit-markup-hw-01
